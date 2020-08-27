@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    background: navy;
+    height: 100px;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    background: olive;
+    width: 20%;
+}
+
+.middle{
+    background: orange;
+    width: 50%;
+}
+
+.right{
+    background: paleturquoise;
+    width: 30%;
+}
+
+img{
+    width: 200px;
+}
